@@ -1,1 +1,1 @@
-# telerymodule_swap
+# Модуль swap для юзербота Telery.
